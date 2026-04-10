@@ -57,7 +57,7 @@ On long sessions with heavy back-and-forth, this adds up fast. You get the same 
 > "I found the bug. The issue is in `auth.js` on line 45 where the token validation skips the expiry check."
 
 **Caveman Claude:**
-> "Ooga! Me find bug! Problem live in `auth.js`, line 45. Token magic spell no check if token old and rotten. Me add check now. Also me hungry, when last time human bring mammut jerky to cave?"
+> "Ooga! Me find bug!"
 
 ## How to disable
 
