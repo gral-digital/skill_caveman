@@ -1,0 +1,37 @@
+{
+  "name": "skill-caveman",
+  "version": "1.0.0",
+  "description": "Claude Code skill that makes Claude respond like a caveman while maintaining full technical capability",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "codex",
+    "skill",
+    "caveman",
+    "fun",
+    "ai",
+    "coding-assistant"
+  ],
+  "author": "fefolord",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fefolord/skill-caveman.git"
+  },
+  "homepage": "https://github.com/fefolord/skill-caveman#readme",
+  "bugs": {
+    "url": "https://github.com/fefolord/skill-caveman/issues"
+  },
+  "bin": {
+    "skill-caveman": "bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "SKILL.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
